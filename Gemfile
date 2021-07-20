@@ -57,3 +57,12 @@ gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
 
 # Gem for formating the code
 gem 'rubocop', '>= 1.0', '< 2.0'
+
+# HTML Processor
+gem 'haml', '~> 5.1', '>= 5.1.2'
+
+# Gem to help create forms
+gem 'simple_form', '~> 4.1'
+
+# Format tables in console
+gem 'hirb'
