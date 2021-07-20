@@ -66,3 +66,7 @@ gem 'simple_form', '~> 4.1'
 
 # Format tables in console
 gem 'hirb'
+
+# Styling gem
+gem 'bootstrap', '~> 5.0', '>= 5.0.1'
+gem 'sprockets-rails', '~> 3.0', '>= 3.0.4'
